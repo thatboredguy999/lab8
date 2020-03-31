@@ -20,3 +20,13 @@ Enter hours, minutes and seconds respectively: 8
 TIME DIFFERENCE: 11:33:52 - 8:12:15 = 3:21:37
 
 
+PERL
+The perl program is a simple hello world program that should be the only expected output, to run the program simply 
+type "perl perltest.pl"
+
+
+RUBY
+The ruby program asks for your age and height and reads it back to you. The output should be your age and height 
+returned to you. In order to run the program type "ruby rubytest.rb"
+
+All of the programs were borrowed from the internet...
